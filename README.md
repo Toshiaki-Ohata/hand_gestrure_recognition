@@ -1,1 +1,1 @@
-# hand_gestrure_recognition
+# これはハンドジェスチャーでパソコン操作を可能にするAPIです．
